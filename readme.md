@@ -105,4 +105,4 @@ docker-compose up -d
 - Implement vector database sharding for distributed search
 - Utilize sparse vector search to filter part of the values with dense search
 ### LLM Optimization
-- Use smaller, local LLMs instead of OpenAI where applicable
+- Use smaller, local LLMs instead of OpenAI where applicable with serving frameworks like Vllm.
