@@ -31,7 +31,7 @@ The application is built using:
 2. **Run requests to API**
    - [Watch Video](https://www.loom.com/share/19cbf4625cad43f696c5124b6e9764af?sid=5469bc1a-3d61-49d9-943c-033a47261ad3)
 
-3. **Tools overview and scalability options** - How the system leverages documents to answer questions
+3. **Tools overview and scalability options**
    - [Watch Video](https://www.loom.com/share/9d4750ee18284c3b85425cac319f9fdd?sid=d52aa592-d01c-4a85-bec3-3954d08b2da6)
 
 ## Project Structure
